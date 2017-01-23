@@ -1,0 +1,357 @@
+.home-page-wrapper .hTabsSection {
+    padding-top: 60px;
+}
+.full-width {
+    padding: 20px 40px 80px;
+}
+.home-page-wrapper h2 {
+    margin-bottom: 20px;
+    font-size: 4.2rem;
+    color: #1d2127;
+    text-align: center;
+}
+.full-width h2 {
+    font-size: 3.9rem;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    color: #1d2127;
+    font-weight: 200;
+}
+.hTabsSection p, .home-page-wrapper .hSlideImg p {
+    color: #7f8387;
+    font-size: 2rem;
+    text-align: center;
+}
+.full-width p, .innerContainer ul li {
+    font-size: 1.6rem;
+    line-height: 1.5625em;
+    color: #8e959c;
+    padding: 0;
+    margin: 0 auto 1.25em;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.hTabsTop {
+    width: 82%;
+    margin: auto;
+    margin-top: -28px;
+    margin-bottom: 25px;
+}
+.hTabsSection ul.hTabs {
+    margin: 60px 0 40px;
+}
+.hTabsSection ul.hTabs > li {
+    display: inline-block;
+    width: 22%;
+    border: 1px solid #a7a5a5;
+    height: 54px;
+    margin-right: 10px;
+}
+.hTabsTop .nav-pills>li {
+    float: none;
+    margin-bottom: 0px;
+}
+.hTabsSection ul.hTabs > li > a:hover .fa, .home-page-wrapper .hTabsSection ul.hTabs > li > a:focus .fa, .home-page-wrapper .hTabsSection ul.hTabs > li > a .fa {
+    color: #1aa6e2;
+}
+.hTabsSection ul.hTabs > li > a .fa {
+    font-size: 26px;
+    padding-top: 3px;
+    float: left;
+    padding-left: 40px;
+    color: #a7a5a5;
+}
+.hTabsSection ul.hTabs > li > a:hover .fa, .home-page-wrapper .hTabsSection ul.hTabs > li > a:focus .fa, .home-page-wrapper .hTabsSection ul.hTabs > li > a .fa {
+    color: #1aa6e2;
+}
+.hTabsSection ul.hTabs > li.active {
+    background-color: #1aa6e2;
+    border-color: #1aa6e2;
+}
+.hTabsSection ul.hTabs > li {
+    display: inline-block;
+    width: 22%;
+    border: 1px solid #a7a5a5;
+    height: 54px;
+    margin-right: 10px;
+}
+.hTabsTop .nav-pills>li {
+    float: none;
+    margin-bottom: 0px;
+}
+.hTabsSection ul.hTabs > li.active > a {
+    background-color: #1aa6e2;
+    color: #fff;
+    border-color: #1aa6e2;
+}
+.hTabsTop ul.hTabs li a {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #a7a5a5;
+    background-color: #fff;
+    border-radius: 0;
+    height: 100%;
+    padding-right: 20px;
+    line-height: 31px;
+}
+.hTabsTop ul.hTabs li a:hover {
+    color: #1aa6e2;
+}
+.hTabsSection ul.hTabs > li > a .fa {
+    font-size: 26px;
+    padding-top: 3px;
+    float: left;
+    padding-left: 20px;
+    color: #a7a5a5;
+}
+.hTabsSection ul.hTabs > li.active > a {
+    background-color: #1aa6e2;
+    color: #fff;
+    border-color: #1aa6e2;
+}
+.hTabsSection ul.hTabs > li.active > a > .fa {
+    color: #fff;
+}
+.hTabsTop .video-container {
+    border: none;
+}
+.hTabContent .video-monitor {
+    padding: 19px 19px 12px;
+    max-width: 678px;
+}
+.video-monitor {
+    padding: 38px 26px 26px;
+    max-width: 810px;
+    width: 100%;
+    margin: 0 auto;
+    border-top: 2px solid #e0e5e9;
+    border-left: 2px solid #e0e5e9;
+    border-right: 2px solid #e0e5e9;
+    -khtml-border-radius: 16px 16px 0 0;
+    -moz-border-radius: 16px 16px 0 0;
+    -webkit-border-radius: 16px 16px 0 0;
+    border-radius: 16px 16px 0 0;
+    position: relative;
+    background: #f6f6f8;
+}
+.video-monitor video {
+    max-width: 678px;
+    width: 100%;
+    border: 1px solid #e0e5e9;
+}
+img {
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: middle;
+}
+.hTabColumns {
+    max-width: 1050px;
+    border-top: 2px solid #e0e5e9;
+    margin: 0 auto;
+}
+.hTabColumns .hpColumn {
+    padding: 0 50px 50px 0;
+}
+.hTabColumns .hpColumn h3 {
+    font-weight: 700;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.full-width h3 {
+    font-size: 3.2rem;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.hTabColumns .hpColumn p {
+    font-size: 1.5rem;
+    color: #757575;
+    text-align: left;
+}
+.hTabsSection p, .home-page-wrapper .hSlideImg p {
+    color: #7f8387;
+    font-size: 2rem;
+    text-align: center;
+}
+.full-width p, .innerContainer ul li {
+    font-size: 1.6rem;
+    line-height: 1.5625em;
+    color: #8e959c;
+    padding: 0;
+    margin: 0 auto 1.25em;
+    font-family: 'Lato',"Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.hSupport p {
+    color: #7f8387;
+    font-size: 1.8rem;
+}
+.hTabColumns .hpColumn {
+    padding: 0 50px 50px 0;
+}
+.hTabColumns .hpColumn h3 {
+    font-weight: 700;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.hTabColumns .hpColumn p {
+    font-size: 1.5rem;
+    color: #757575;
+    text-align: left;
+}
+.hTabsSection p, .home-page-wrapper .hSlideImg p {
+    color: #7f8387;
+    font-size: 2rem;
+    text-align: center;
+}
+.hTabColumns .hpColumn {
+    padding: 0 50px 50px 0;
+}
+.hTabsTop .video-container {
+    border: none;
+}
+.hTabContent .video-monitor {
+    padding: 19px 19px 12px;
+    max-width: 678px;
+}
+.hTabColumns {
+    max-width: 1050px;
+    border-top: 2px solid #e0e5e9;
+    margin: 0 auto;
+}
+.video-monitor {
+    padding: 38px 26px 26px;
+    max-width: 810px;
+    width: 100%;
+    margin: 0 auto;
+    border-top: 2px solid #e0e5e9;
+    border-left: 2px solid #e0e5e9;
+    border-right: 2px solid #e0e5e9;
+    -khtml-border-radius: 16px 16px 0 0;
+    -moz-border-radius: 16px 16px 0 0;
+    -webkit-border-radius: 16px 16px 0 0;
+    border-radius: 16px 16px 0 0;
+    position: relative;
+    background: #f6f6f8;
+}
+@media screen and (max-width: 1199px) {
+  .hTabsSection ul.hTabs > li {
+    width: 35%;
+    margin-bottom: 16px;
+  }
+  .hTabsSection ul.hTabs > li > a .fa {
+    font-size: 24px;
+  }
+  .hTabsButtons {
+    text-align: center;
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .hTabsSection ul.hTabs > li {
+    width: 44%;
+  }
+  .innerContainer .hTabsButtons {
+    text-align: center;
+  }
+  .hTabsButtons {
+    text-align: center;
+    margin-top: 150px;
+  }
+  .hTabsButtons .btn {
+    float: none;
+  }
+}
+@media screen and (max-width: 767px) {
+  .hTabsSection ul.hTabs > li {
+    width: 63%;
+    margin-right: 0;
+    text-align: left;
+  }
+  .hTabsSection ul.hTabs > li > a .fa {
+    margin-right: 40px;
+  }
+  .hTabsButtons {
+    margin-top: 0px;
+  }  
+}
+@media screen and (max-width: 600px) {
+  .hTabsButtons {
+    margin-top: 20px;
+  }
+  .hTabsSection ul.hTabs > li {
+    width: 100%;
+    margin-bottom: 12px;
+  }
+  .hTabsButtons .btn-home {
+    margin-bottom: 20px;
+  }
+  .hTabsButtons .btn-home2 {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 480px) {
+  .hTabsSection ul.hTabs > li,
+  .hTabsButtons .btn {
+    width: 100%;
+  }
+  .hTabsButtons .btn.btn-home2 {
+    margin-left: 0;
+  }
+  .hTabsSection ul.hTabs > li > a {
+    padding: 10px 0;
+  }
+  .hTabsSection ul.hTabs > li > a .fa {
+    padding-left: 30px;
+  }
+  .hTabsSection ul.hTabs > li,
+  .hTabsButtons .btn {
+    margin-bottom: 15px;
+  }
+  .hTabsSection {
+    text-align: center;
+  }
+  .hTabsButtons .btn.btn-home {
+    margin-bottom: 10px;
+  }
+  .hTabsSection ul.hTabs > li > a .fa {
+    margin-right: 24px;
+  }
+}
+@media screen and (max-width: 350px){
+  .hTabsSection ul.hTabs > li > a .fa {
+    margin-right: 20px;
+    padding-left: 20px;
+  }
+}
+.hTabsButtons .btn.btn-home:hover, .home-page-wrapper .hTabsButtons .btn.btn-home2:hover {
+    background-color: #1388ba;
+    border: 1px solid #1388ba;
+    color: #fff;
+}
+.hTabsButtons .btn {
+    margin: 0 10px;
+}
+.hTabsButtons .btn-home, .hTabsButtons .btn-home2 {
+    text-transform: uppercase;
+    padding: 14px 25px;
+}
+.btn-home {
+    background-color: #1aa6e2;
+    color: #fff;
+}
+.btn {
+    border: none;
+    font-size: 16px;
+    text-transform: none;
+    padding: 8px 19px 6px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.hTabsButtons .btn-home, .hTabsButtons .btn-home2 {
+    text-transform: uppercase;
+    padding: 14px 25px;
+}
